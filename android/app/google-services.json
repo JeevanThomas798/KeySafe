@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "724492062775",
+    "project_id": "keysafe-3a87d",
+    "storage_bucket": "keysafe-3a87d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724492062775:android:d70508482b67aacbf76fb2",
+        "android_client_info": {
+          "package_name": "com.example.keysafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsbq3XP_1wqVR2ZiG6FQZ35TXzBF08IG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
